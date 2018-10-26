@@ -1,5 +1,8 @@
 esimene rida
-viies rida
+<<<<<<< HEAD
+viies rid
+=======
+kass
 kolmas rida
 neljas rida
 

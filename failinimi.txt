@@ -1,5 +1,5 @@
 esimene rida
-teine rida
+kass
 kolmas rida
 neljas rida
 
